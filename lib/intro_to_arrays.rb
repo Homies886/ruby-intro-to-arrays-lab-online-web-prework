@@ -26,3 +26,5 @@ def last_element_with_array_methods(last_element_with_array_methods)
   ["Thailand", "Cambodia", "Singapore", "Myanmar"].last
 end
 
+def length_of_array(length_of_array)
+  [1, 2, 3, 4, 5, 6, 7, 8]
