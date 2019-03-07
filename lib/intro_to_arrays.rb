@@ -13,3 +13,8 @@ end
 def third_element(third_element)
   ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"][2]
 end
+
+def last_element(last_element)
+  ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"][-1]
+end
+
