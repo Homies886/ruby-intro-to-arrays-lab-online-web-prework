@@ -22,4 +22,5 @@ def first_element_with_array_methods(first_element_with_array_methods)
   ["Thailand", "Cambodia", "Singapore", "Myanmar"].first
 end
 
-def 
+def last_element_with_array_methods(last_element_with_array_methods)
+  
