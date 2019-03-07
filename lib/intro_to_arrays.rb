@@ -18,5 +18,6 @@ def last_element(last_element)
   ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"][-1]
 end
 
-def first_element_with_array_methods()
+def first_element_with_array_methods(first_element_with_array_methods)
+  
   
